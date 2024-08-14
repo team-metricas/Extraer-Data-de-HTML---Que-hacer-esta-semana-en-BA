@@ -1,5 +1,5 @@
 # Extraer-Data-de-HTML---Que-hacer-esta-semana-en-BA
-Extraer datos de una página web y transformar en CSV
+Extraer datos de una página web y transformar en CSV para ingestar en GPT
 ## Paso a Paso 
 1.	Ingresar a la web: https://turismo.buenosaires.gob.ar/es/article/que-hacer-esta-semana
 2.	Ver el código HTML: Una vez en la página, presiona Ctrl + U para abrir el código fuente HTML de la página.
